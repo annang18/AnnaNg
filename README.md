@@ -4,6 +4,8 @@ I'm a sophomore at Simmons University in Boston, MA. I'm majoring in Biology wit
 ## Professional Interests 🎓
 As part of the Pre-PA track, I aim to contribute to the medical field by researching underexplored diseases and addressing the gaps in healthcare knowledge. 
 
-## Projects 💻
+## Next Projects 💻
+I'm preparing my final project for STAT 228. 
 
-
+## Contact Me 📢
+Please reach out in [LinkedIn](www.linkedin.com/in/anna-ng18)
